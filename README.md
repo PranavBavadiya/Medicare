@@ -39,13 +39,21 @@ The project includes fully normalized relations (BCNF) such as:
 - Driver, Department
 
 ---
-
 ## 📂 Project Structure
 
 ```bash
 📁 MediCare-DBMS-Project
-├── 📄 Description.pdf          # Use cases and functional details
-├── 📄 Relational_Schema.pdf    # Schema and normalization proofs
-├── 📄 ddl_script.sql           # SQL code to create schema and tables
-├── 📁 queries/                 # Sample queries for each user role
-└── 📁 reports/                 # Output screenshots, analytics (optional)
+├── 📄 Create_Tables.sql       # SQL DDL to create all tables
+├── 📄 Insert_Data.sql         # SQL to insert sample data
+├── 📄 Queries.sql             # Sample SQL queries
+├── 📄 ER Diagram.pdf          # Entity-Relationship diagram
+├── 📄 Relational Model.pdf    # Relation schema representation
+├── 📄 Minimal FD set.pdf      # Functional dependencies
+├── 📄 LICENSE                 # MIT License
+├── 📄 README.md               # Project documentation (this file)
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project with attribution.  
+See the LICENSE file for full details.
