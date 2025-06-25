@@ -39,6 +39,14 @@ The project includes fully normalized relations (BCNF) such as:
 - Driver, Department
 
 ---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project with attribution.  
+See the LICENSE file for full details.
+
+---
 ## 📂 Project Structure
 
 ```bash
@@ -51,9 +59,3 @@ The project includes fully normalized relations (BCNF) such as:
 ├── 📄 Minimal FD set.pdf      # Functional dependencies
 ├── 📄 LICENSE                 # MIT License
 ├── 📄 README.md               # Project documentation (this file)
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute this project with attribution.  
-See the LICENSE file for full details.
